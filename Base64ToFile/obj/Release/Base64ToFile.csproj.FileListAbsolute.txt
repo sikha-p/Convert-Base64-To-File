@@ -1,0 +1,6 @@
+C:\Users\Sikha.P\source\repos\Base64ToFile\bin\Release\Base64ToFile.dll
+C:\Users\Sikha.P\source\repos\Base64ToFile\bin\Release\Base64ToFile.pdb
+C:\Users\Sikha.P\source\repos\Base64ToFile\obj\Release\Base64ToFile.csprojAssemblyReference.cache
+C:\Users\Sikha.P\source\repos\Base64ToFile\obj\Release\Base64ToFile.csproj.CoreCompileInputs.cache
+C:\Users\Sikha.P\source\repos\Base64ToFile\obj\Release\Base64ToFile.dll
+C:\Users\Sikha.P\source\repos\Base64ToFile\obj\Release\Base64ToFile.pdb
